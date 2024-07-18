@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T09:53:29.412Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EQ-u5RAdngZ6TXOU3FTq" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T13:56:15.367Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="82jQoKAwVUvcMEGSoo1L" version="24.7.0" type="github">
   <diagram name="Page-1" id="FardwT6F0c0DqBadbPQI">
     <mxGraphModel dx="2058" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#B3B3B3" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZZw7M7tX6rFcDvnnaBjH-39" value="Sea of Unknown" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZZw7M7tX6rFcDvnnaBjH-39" value="Sea of Unknown" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#B8B8B8;" vertex="1" parent="1">
           <mxGeometry x="180" y="590" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
